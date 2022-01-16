@@ -1,0 +1,29 @@
+[
+  {
+    "country": "India",
+    "coordinates": [20.593683, 78.962883],
+    "currency": "₹  /  Rupee",
+    "speed": "kmph / KiloMeter per hour",
+    "distance": "km / Kilo Meter",
+    "volume": "L / Liter",
+    "timezone": "UTC +05:30"
+  },
+  {
+    "country": "United States",
+    "coordinates": [39.7837304, -100.445882],
+    "currency": "$ /  Dollar",
+    "speed": "mph / Miles per hour",
+    "distance": "mi / Mile",
+    "volume": "L / Liter",
+    "timezone": "UTC -5"
+  },
+  {
+    "country": "United Kingdom",
+    "coordinates": [54.7023545, -3.2765753],
+    "currency": "£ Pound",
+    "speed": "kmph / KiloMeter per hour",
+    "distance": "km / Kilo Meter",
+    "volume": "L / Liter",
+    "timezone": "UTC +0"
+  }
+]
